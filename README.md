@@ -1,6 +1,6 @@
 # 🎯 Vue.js — Questions d'Entretien (FR)
 
-> La référence francophone pour préparer vos entretiens techniques Vue.js 3 — des fondamentaux jusqu'aux sujets avancés, avec réponses claires et exemples de code.
+> La référence francophone pour préparer vos entretiens techniques Vue.js 3 / Nuxtjs — des fondamentaux jusqu'aux sujets avancés, avec réponses claires et exemples de code.
 
 <p align="center">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3.x-42b883?logo=vue.js&logoColor=white">
@@ -26,17 +26,6 @@ Que vous soyez **junior**, **mid-level** ou **senior**, ce guide vous aide à :
 
 > 💡 **Astuce** : ne mémorisez pas mot pour mot. Comprenez la logique, puis reformulez avec vos propres mots — c'est ce que les recruteurs recherchent.
 
----
-
-## 🏷️ Topics suggérés pour le dépôt
-
-```
-vuejs  vue3  interview-questions  interview-preparation  frontend
-composition-api  pinia  vue-router  javascript  french  entretien
-coding-interview  web-development  spa  reactivity
-```
-
----
 
 ## 🗂️ Table des matières
 
